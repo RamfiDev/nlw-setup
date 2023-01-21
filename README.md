@@ -33,3 +33,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Habits é um app para ajudar a rastrear os hábitos.
 
 - [🔗 Clique aqui para dar uma olhada](https://ramfidev.github.io/nlw-setup/)
+
+<br>
+
+<p align="center">
+  <img alt="Status" src="https://img.shields.io/badge/✔_Projeto_finalizado-5c6bc0?style=flat-&logoColor=white">
+</p>
